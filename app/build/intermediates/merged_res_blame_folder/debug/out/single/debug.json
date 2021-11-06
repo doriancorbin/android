@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\font_titillium_web.ttf.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\font\\titillium_web.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_fill.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\drawable\\gradient_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_stop_button.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\drawable\\ic_stop_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_change_privacy.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\layout\\change_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_pop_up.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\layout\\pop_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_start_button.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\drawable\\ic_start_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Dorian\\OneDrive\\Desktop\\CS 1980\\harapp-main\\android\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    }
+]
